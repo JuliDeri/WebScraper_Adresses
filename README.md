@@ -31,6 +31,7 @@ This Python script uses the SerpAPI to perform Google searches and extract relev
     Create a .env file in the root directory of the project with the following content:
 
     API_KEY=your_serpapi_key_here
+   
     CSV_PATH=path_to_your_input_csv_file
    
 Replace your_serpapi_key_here with your actual SerpAPI key and path_to_your_input_csv_file with the path to your input CSV file.
